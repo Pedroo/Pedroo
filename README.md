@@ -1,4 +1,4 @@
-### Olá sou o
+### Olá sou o Pedroo
 
 - 📖 Atualmente estou estudando Front End, Aprendendo HTML,CSS.
 - 🤔 Procuro ajuda para desenvolver minha carreira
